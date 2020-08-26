@@ -1,0 +1,77 @@
+onset	trial_type	duration
+0.02	Like_Instruction	5000.0
+5.631	LikeTrials_Ant	600.0
+5.631	LikeTrials_Male_Ant	600.0
+9.229	LikeTrials_FB_Win	1000.0
+9.229	LikeTrials_Male_FB_Win	
+10.242	Like_ITI	1100.0
+11.922	LikeTrials_Ant	600.0
+11.922	LikeTrials_Female_Ant	600.0
+15.52	LikeTrials_FB_Lose	1000.0
+15.52	LikeTrials_Female_FB_Lose	1000.0
+16.533	Like_ITI	1100.0
+20.331	LikeTrials_Ant	600.0
+20.331	LikeTrials_Male_Ant	600.0
+23.93	LikeTrials_FB_Win	1000.0
+23.93	LikeTrials_Male_FB_Win	
+24.93	Like_ITI	1100.0
+30.820999999999998	LikeTrials_Ant	600.0
+30.820999999999998	LikeTrials_Female_Ant	600.0
+34.431999999999995	LikeTrials_FB_Win	1000.0
+34.431999999999995	LikeTrials_Female_FB_Win	
+35.445	Like_ITI	1100.0
+41.323	LikeTrials_Male_Ant	600.0
+41.323	LikeTrials_Ant	600.0
+44.922	LikeTrials_FB_Win	1000.0
+44.922	LikeTrials_Male_FB_Win	
+45.92100000000001	Like_ITI	1100.0
+51.825	LikeTrials_Ant	600.0
+51.825	LikeTrials_Male_Ant	600.0
+55.424	LikeTrials_Male_FB_Win	
+55.424	LikeTrials_FB_Win	1000.0
+56.424	Like_ITI	1100.0
+60.222	LikeTrials_Ant	600.0
+60.222	LikeTrials_Male_Ant	600.0
+63.821000000000005	LikeTrials_FB_Lose	1000.0
+63.821000000000005	LikeTrials_Male_FB_Lose	
+64.82	Like_ITI	1100.0
+66.52600000000001	LikeTrials_Male_Ant	600.0
+66.52600000000001	LikeTrials_Ant	600.0
+70.125	LikeTrials_Male_FB_Lose	
+70.125	LikeTrials_FB_Lose	1000.0
+71.138	Like_ITI	1100.0
+74.923	LikeTrials_Female_Ant	600.0
+74.923	LikeTrials_Ant	600.0
+78.521	LikeTrials_Female_FB_Win	
+78.521	LikeTrials_FB_Win	1000.0
+79.53399999999999	Like_ITI	1100.0
+83.333	LikeTrials_Female_Ant	600.0
+83.333	LikeTrials_Ant	600.0
+86.931	LikeTrials_Female_FB_Lose	1000.0
+86.931	LikeTrials_FB_Lose	1000.0
+87.944	Like_ITI	1100.0
+89.624	LikeTrials_Male_Ant	600.0
+89.624	LikeTrials_Ant	600.0
+93.22200000000001	LikeTrials_Male_FB_Lose	
+93.22200000000001	LikeTrials_FB_Lose	1000.0
+94.235	Like_ITI	1100.0
+95.928	LikeTrials_Male_Ant	600.0
+95.928	LikeTrials_Ant	600.0
+99.52600000000001	LikeTrials_Male_FB_Lose	
+99.52600000000001	LikeTrials_FB_Lose	1000.0
+100.52600000000001	Like_ITI	1100.0
+102.23200000000001	LikeTrials_Ant	600.0
+102.23200000000001	LikeTrials_Female_Ant	600.0
+105.83	LikeTrials_FB_Lose	1000.0
+105.83	LikeTrials_Female_FB_Lose	1000.0
+106.84299999999999	Like_ITI	1100.0
+112.721	LikeTrials_Ant	600.0
+112.721	LikeTrials_Female_Ant	600.0
+116.333	LikeTrials_FB_Win	1000.0
+116.333	LikeTrials_Female_FB_Win	
+117.346	Like_ITI	1100.0
+123.223	LikeTrials_Ant	600.0
+123.223	LikeTrials_Female_Ant	600.0
+126.822	LikeTrials_FB_Win	1000.0
+126.822	LikeTrials_Female_FB_Win	
+127.821	Like_ITI	1100.0
